@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+#fila1 {
+    background-color: lightgray;
+    color: white;
+}
+#img1 {
+    text-align: right;
+}
+#nombre {
+    font-size: 35px;
+    color: whitesmoke;
+    background-color: grey;
+}
+#nombre2 {
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: darkgrey;
+}
+#img_download {
+    text-align: center;
+    background-color: silver;
+}
+
+#img_download2 {
+    text-align: center;
+    background-color: dimgrey;
+}
+
+#opciones {
+    text-align: center;
+}
+
+
+
+#fila2 {
+    background-color: lightgreen;
+}
+p.pfila2 {
+    font-size: larger;
+    font-weight: bold;
+}
+p.opcionesfila2 {
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+p.opcionesfila2texto {
+    font-size: 13px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p1 {
+    color: red;
+    font-size: x-small;
+    font-weight: bold;
+}
+p.infotitu {
+    font-size: 13px;
+    font-weight: bold;
+}
+p.infoper {
+    font-size: 13px;
+}
+
+
+
+#fila3 {
+    color: white;
+}
+#col1f3 {
+    background-color: orchid;
+}
+#col2f3 {
+    background-color: rgb(72, 154, 209);
+}
+
+p.pfila3-a {
+    font-size: 10px;
+}
+p.pfila3-b {
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.pfila3 {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.row-bottom-margin { margin-bottom:1px; }
